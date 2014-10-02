@@ -1,0 +1,9 @@
+WC stands for word count. 
+
+As standard it will also show the character and line counts. 
+
+Arguments -w for just words, -l for just lines, -c for just character count. 
+
+Format
+
+wc *argument*
