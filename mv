@@ -1,0 +1,7 @@
+The move command can be used to move a file or directory from one location to another.
+
+It can also be used to rename a file. 
+
+Format
+
+mv *file/directory* *newfile/directory*
