@@ -1,0 +1,5 @@
+Grep is used to search for text. 
+
+Format
+
+grep *search term* *search location*
